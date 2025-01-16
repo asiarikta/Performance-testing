@@ -68,6 +68,7 @@ jmeter -n -t Booking.jmx -l report\Booking.jtl
 jmeter -n -t Ecommerce.jmx -l report\Ecommerce.jtl
 Report Generate command
 
+
 jmeter -g report\Booking.jtl -o report\Booking.html
 jmeter -g report\Ecommerce.jtl -o report\Ecommerce.html
 Screenshots
