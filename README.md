@@ -62,11 +62,11 @@ Run Command in jmeter\bin folder
 Command
 Jtl file generate command
 
-![Capture](https://github.com/user-attachments/assets/0b4f6081-4967-4f16-970a-b6144fdceaa3)
 
 jmeter -n -t Booking.jmx -l report\Booking.jtl
 jmeter -n -t Ecommerce.jmx -l report\Ecommerce.jtl
 Report Generate command
+![Capture](https://github.com/user-attachments/assets/0b4f6081-4967-4f16-970a-b6144fdceaa3)
 ![pic2](https://github.com/user-attachments/assets/4bc3c910-939a-4c32-9f00-40dc899b843e)
 
 
