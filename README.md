@@ -74,5 +74,7 @@ jmeter -n -t Booking.jmx -l report\Booking.jtl
 jmeter -n -t Ecommerce.jmx -l report\Ecommerce.jtl
 Report Generate command
 
+![pic2](https://github.com/user-attachments/assets/cc674a2e-5f8a-491f-86fc-71fbdd34a2ab)
+
 jmeter -g report\Booking.jtl -o report\Booking.html
 jmeter -g report\Ecommerce.jtl -o report\Ecommerce.ht
