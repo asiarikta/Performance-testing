@@ -67,6 +67,8 @@ Command
  
 ![Capture](https://github.com/user-attachments/assets/03b5989a-9e6f-45ec-978a-2951f7765a2b)
 
+![Capture2](https://github.com/user-attachments/assets/c3add445-1145-47f3-967c-db437e144dfe)
+
 
 jmeter -n -t Booking.jmx -l report\Booking.jtl
 jmeter -n -t Ecommerce.jmx -l report\Ecommerce.jtl
