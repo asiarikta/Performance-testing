@@ -62,7 +62,11 @@ JMeter should be initialized in non-GUI mode.
 Make a report folder in the bin folder.
 Run Command in jmeter\bin folder
 Command
-Jtl file generate command
+
+ file generate command
+ 
+![Capture](https://github.com/user-attachments/assets/03b5989a-9e6f-45ec-978a-2951f7765a2b)
+
 
 jmeter -n -t Booking.jmx -l report\Booking.jtl
 jmeter -n -t Ecommerce.jmx -l report\Ecommerce.jtl
