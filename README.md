@@ -73,6 +73,8 @@ Command
 jmeter -n -t Booking.jmx -l report\Booking.jtl
 jmeter -n -t Ecommerce.jmx -l report\Ecommerce.jtl
 Report Generate command
+![pic 3](https://github.com/user-attachments/assets/4002846c-c3d8-403c-ad86-0cd4d3c7bfc2)
+
 
 ![pic2](https://github.com/user-attachments/assets/cc674a2e-5f8a-491f-86fc-71fbdd34a2ab)
 
